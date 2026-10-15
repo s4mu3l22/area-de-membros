@@ -1,0 +1,8 @@
+{
+  "name": "Acervo Clínico Infantil",
+  "description": "Área de membros e aplicativo clínico para psicólogos, neuropsicólogos e terapeutas infantojuvenis com 160 recursos terapêuticos e bônus exclusivos em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
